@@ -55,16 +55,16 @@ export default function Hero() {
           </div>
           
           <h1 className="hero-title text-5xl md:text-6xl lg:text-7xl xl:text-8xl font-bold tracking-tight mb-6">
-            <span className="magnify-text">Domina</span>{' '}
-            <span className="magnify-text">il</span>{' '}
-            <span className="magnify-text">Mercato</span>{' '}
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#2cd4bd] to-[#4ae7d0] magnify-text">
-              Digitale
-            </span>
-          </h1>
+  <span className="magnify-text">La</span>{' '}
+  <span className="magnify-text">tua</span>{' '}
+  <span className="magnify-text">rivoluzione</span>{' '}
+  <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#2cd4bd] to-[#4ae7d0] magnify-text">
+    digitale
+  </span>
+</h1>
           
-          <p className="text-xl md:text-2xl text-gray-300 tracking-wide hover-glow max-w-3xl mx-auto">
-            Soluzioni Tecnologiche che Trasformano le Sfide in Opportunità
+<p className="text-xl md:text-2xl text-gray-300 tracking-wide hover-glow max-w-3xl mx-auto">
+            Tutte le rivoluzioni partono da un&apos;idea, qual&apos;è la tua?
           </p>
         </div>
 
