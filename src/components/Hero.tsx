@@ -64,8 +64,8 @@ export default function Hero() {
 </h1>
           
 <p className="text-xl md:text-2xl text-gray-300 tracking-wide hover-glow max-w-3xl mx-auto">
-            Tutte le rivoluzioni partono da un&apos;idea, qual&apos;è la tua?
-          </p>
+  Tutte le rivoluzioni partono da un&apos;idea, qual&apos;è la tua?
+</p>
         </div>
 
         <div className="grid lg:grid-cols-2 gap-12 items-center">
